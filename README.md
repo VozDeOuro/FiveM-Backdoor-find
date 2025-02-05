@@ -52,6 +52,10 @@ python malwarefind.py /path/to/scan
 ```
 Alternatively, if no path is provided, the script will prompt for directory selection.
 
+☕ Support
+If you find this project useful, consider supporting me on Ko-fi: https://ko-fi.com/vozdeouro
+
+
 ## Contributing
 Feel free to submit issues or pull requests to improve this project.
 
