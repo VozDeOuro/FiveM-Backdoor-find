@@ -46,11 +46,19 @@ This repository contains a set of Python scripts designed to detect and mitigate
 
 ## 🚀Usage
 ### 🔎Running the Malware Scanner
-To scan a directory for malware:
+✅Recomended option
+If no path is provided, the script will prompt for directory selection.
+```bash
+python malwarefind.py
+```
+
+Alternatively, to scan a directory for malware:
 ```bash
 python malwarefind.py /path/to/scan
 ```
-Alternatively, if no path is provided, the script will prompt for directory selection.
+
+
+
 
 ## Contributing
 ☕ Support
