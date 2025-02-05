@@ -1,7 +1,7 @@
 # FiveM Malware Detection and Prevention Tool
 
 ## Overview
-This repository contains a set of Python scripts designed to detect and mitigate potential malware threats, specifically in JavaScript and Lua scripts. The tool analyzes files for obfuscated code, suspicious patterns, and known malware signatures, helping administrators secure their environments.
+This repository contains a set of Python scripts designed to detect and mitigate potential malware threats, specifically in JavaScript and Lua scripts in the FiveM servers. The tool analyzes files for obfuscated code, suspicious patterns, and known malware signatures, helping administrators secure their environments.
 
 ## Features
 - **Regex-Based Malware Detection**: Detects obfuscated strings, suspicious function calls, and known malware signatures in JavaScript and Lua files.
